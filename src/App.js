@@ -1,0 +1,1 @@
+console.log("SPA Semana 6");
